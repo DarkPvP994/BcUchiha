@@ -18,12 +18,12 @@ client.on("message", message => {
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : i1Suhaib`);
+      console.log(`Desert Bot- Script By : DarkPvP`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : UchihaServer ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`S2ud`,"http://twitch.tv/S-F")
+client.user.setGame(`UchihaServer`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
